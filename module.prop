@@ -1,0 +1,8 @@
+id=MemoryKeeper
+name=Memory Keeper
+version=v0.1
+versionCode=1
+author=Rei Ryuki the Fixer
+description=Optimizes priority of com.android.chrome package memory processes in RAM each time they are started.
+
+
