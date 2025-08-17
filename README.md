@@ -1,6 +1,6 @@
 # Memory Keeper Magisk Module
 
-**[ DISCONTINUED ]**
+**[ DISCONTINUED ]** https://t.me/androidryukimods/3086
 
 ## Descriptions
 - Optimizes priority of com.android.chrome package memory processes in RAM each time they are started
